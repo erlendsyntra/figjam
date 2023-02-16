@@ -18,6 +18,8 @@ body {
 header section {
   background-color: var(--purple);
   font-weight: 600;
+
+  /* don't use height!!! */
   height: 57px;
   display: flex;
   justify-content: center;
